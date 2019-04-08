@@ -1,2 +1,2 @@
 # rsort
-use golan to develope simple rsort
+use golan to develope simple external sort
